@@ -1,4 +1,4 @@
-![DNN Platform At A Glance](Dnnplus/DNN920.jpg)
+![DNN Platform At A Glance](dnnplus/DNN920.jpg)
 
 DNN Plus Fork Localization Persian & RTL Support
 ==================
