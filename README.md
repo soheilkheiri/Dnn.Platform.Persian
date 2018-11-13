@@ -1,4 +1,4 @@
-![DNN Platform At A Glance](dnnplus/DNN920.jpg)
+![DNN Platform At A Glance](dnnplus/DNN922.jpg)
 
 DNN Plus Fork Localization Persian & RTL Support
 ==================
@@ -12,7 +12,7 @@ DNN Plus Fork Localization Persian & RTL Support
 
 * Support Persian language by default at the installation stage
 * Support solar/Shamsi/jalali Date
-* Support Right To Left (RTL)
+* Support Right To Left (RTL) - All cultures needs RTL
 * Localization Support Standard
 
 Project Description
