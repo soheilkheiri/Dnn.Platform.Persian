@@ -1,8 +1,9 @@
-![DNN Platform At A Glance](dnnplus/DNN922.jpg)
+![DNN Platform At A Glance](dnnplus/DNN941.jpg)
 
 DNN Plus Fork Localization Persian & RTL Support
 ==================
 
+* پشتیبانی از چندزبانگی
 * پشتیبانی از زبان فارسی به صورت پیش فرض در مرحله نصب
 * پشتیبانی از تاریخ شمسی
 * پشتیبانی از راستچین سازی
@@ -39,17 +40,14 @@ In addition to robust content management, the free, open source DNN Platform inc
 
 Quick Links
 -----------
-* [DNN on Facebook](http://www.facebook.com/DNNsoftware)
-* [Community](http://www.dnnsoftware.com/Community)
-* [Questions & Answers](http://answers.dnnsoftware.com/)
-* [Discussion Forums](http://forums.dnnsoftware.com/)
-* [Video Library](http://www.dnnsoftware.com/videos)
-* [News](http://www.dnnsoftware.com/About/In-The-News/Press-Releases)
-* [Community Blogs](http://www.dnnsoftware.com/community-blog)
-* [Extensions Forge](http://www.dnnsoftware.com/Community/Download/DNN-Forge)
 * [DNN Store](http://store.dnnsoftware.com/)
 * [DNN Plus](https://dnnplus.ir/) 
-* 
+* [DNN Download](https://dnnplus.ir/Download-DNN) 
+* [DNN Doc](https://Dnndocs.ir) 
+* [DNN Community](https://dnnplus.ir/Forum)
+* [DNN Modules](https://dnnplus.ir/Products/Modules)
+* [DNN Themes](https://dnnplus.ir/Products/Themes)
+
 
 How to Contribute
 -----------------
